@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🦾 Hi, I'm Agilan G S ⌚️
+# 🦾 Hi, I'm Agilan G S 
 
 ### `Java Full Stack Developer`
 
