@@ -161,26 +161,7 @@ Java Full Stack 🚀
 ```
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Agilan45&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agilan45&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
 ---
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Agilan45&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
