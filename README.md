@@ -1,16 +1,231 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Agilan45/Agilan45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Agilan G S
 
-Here are some ideas to get you started:
+### `Java Full Stack Developer`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Java • Spring Boot • React.js • MySQL**
+
+<br/>
+
+<a href="https://www.linkedin.com/in/agilan-g-s-171b31257/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://agilan-portfolio.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-181717?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm **Agilan G S**, a B.Tech Information Technology graduate interested in **Java Full Stack Development**.
+
+I enjoy building web applications and improving my development skills through practical projects.
+
+* 🎓 B.Tech — Information Technology
+* 💻 Focused on **Java Full Stack Development**
+* 🌱 Currently learning **Spring Boot & React.js**
+* 🔨 Building projects to strengthen my development skills
+* 🎯 Interested in **Java Developer & Full Stack Developer** roles
+* 📍 India
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=java,js" />
+
+<br/><br/>
+
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
+
+<br/><br/>
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=spring" />
+
+<br/><br/>
+
+### 🗄️ Database
+
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+<br/><br/>
+
+### 🔧 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🍕 Pizza Delivery Management System
+
+**Java • OOP**
+
+A console-based pizza ordering application that allows customers to select pizzas, customize toppings, calculate prices and place orders.
+
+**Concepts Used**
+
+`Inheritance` `Encapsulation` `Abstraction` `Polymorphism`
+
+---
+
+### 🛒 E-Commerce Website
+
+**HTML • CSS • JavaScript**
+
+A frontend e-commerce website designed with a responsive user interface and interactive product-related functionality.
+
+---
+
+### 📊 Frontend Admin Panel
+
+**React.js • JavaScript • CSS**
+
+A single-page admin panel built with reusable React components and dynamic UI rendering.
+
+**Concepts Used**
+
+`Components` `Props` `useState` `useEffect` `API Integration`
+
+---
+
+### 🌐 Personal Portfolio
+
+**React.js • HTML • CSS • JavaScript**
+
+A personal portfolio website showcasing my skills, projects, education and contact information.
+
+🔗 **[View Portfolio](https://agilan-portfolio.netlify.app/)**
+
+---
+
+## 📚 Currently Learning
+
+<div align="center">
+
+|       ☕ Java       |    🌱 Spring Boot    |  ⚛️ React  |    🗄️ MySQL    |
+| :----------------: | :------------------: | :--------: | :-------------: |
+|         OOP        |       REST API       | Components |       SQL       |
+|     Collections    |      Spring MVC      |    Props   |      Joins      |
+| Exception Handling |         JDBC         |    Hooks   |     Queries     |
+|       Java 8+      | Dependency Injection |  API Calls | Database Design |
+
+</div>
+
+---
+
+## 💡 Development Roadmap
+
+```text
+HTML + CSS
+     │
+     ▼
+JavaScript
+     │
+     ▼
+React.js
+     │
+     ▼
+Core Java
+     │
+     ▼
+Advanced Java
+     │
+     ▼
+JDBC + MySQL
+     │
+     ▼
+Spring Boot
+     │
+     ▼
+REST APIs
+     │
+     ▼
+Java Full Stack 🚀
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Agilan45&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agilan45&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Agilan45&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Agilan45&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Agilan45/Agilan45/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/agilan-g-s-171b31257/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+ 
+
+<a href="https://agilan-portfolio.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-Explore-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Code • Learn • Build • Improve
+
+⭐ **Thanks for visiting my profile!**
+
+</div>
