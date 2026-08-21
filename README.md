@@ -114,20 +114,6 @@ A personal portfolio website showcasing my skills, projects, education and conta
 🔗 **[View Portfolio](https://agilan-portfolio.netlify.app/)**
 
 ---
-
-## 📚 Currently Learning
-
-<div align="center">
-
-|       ☕ Java       |    🌱 Spring Boot    |  ⚛️ React  |    🗄️ MySQL    |
-| :----------------: | :------------------: | :--------: | :-------------: |
-|         OOP        |       REST API       | Components |       SQL       |
-|     Collections    |      Spring MVC      |    Props   |      Joins      |
-| Exception Handling |         JDBC         |    Hooks   |     Queries     |
-|       Java 8+      | Dependency Injection |  API Calls | Database Design |
-
-</div>
-
 ---
 
 ## 💡 Development Roadmap
@@ -183,24 +169,6 @@ Java Full Stack 🚀
 </div>
 
 ---
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Agilan45&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Agilan45/Agilan45/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</div>
 
 ---
 
