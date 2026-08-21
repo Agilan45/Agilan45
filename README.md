@@ -70,19 +70,33 @@ I enjoy building web applications and improving my development skills through pr
 </div>
 
 ---
-
-## 🚀 Featured Projects
-
 ### 🍕 Pizza Delivery Management System
 
-**Java • OOP**
+**React.js • Spring Boot • Java • MySQL**
 
-A console-based pizza ordering application that allows customers to select pizzas, customize toppings, calculate prices and place orders.
+A full-stack pizza ordering application where users can browse pizzas, customize toppings, place orders and calculate the total price.
 
-**Concepts Used**
+**Frontend**
+- React.js
+- JavaScript
+- HTML
+- CSS
 
-`Inheritance` `Encapsulation` `Abstraction` `Polymorphism`
+**Backend**
+- Java
+- Spring Boot
+- REST APIs
 
+**Database**
+- MySQL
+
+**Key Features**
+- 🍕 Pizza selection
+- 🧀 Toppings customization
+- 🛒 Order management
+- 💰 Automatic price calculation
+- 🔗 Frontend and backend API integration
+- 🗄️ MySQL database integration
 ---
 
 ### 🛒 E-Commerce Website
